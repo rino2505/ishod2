@@ -6,7 +6,6 @@
       style="width: 200px; height: 200px"
 
     />
-    <h1> tEST </h1>
   </q-page>
 </template>
 
