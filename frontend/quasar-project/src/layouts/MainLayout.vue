@@ -71,6 +71,12 @@ const linksList = [
     icon: 'favorite',
     link: 'https://awesome.quasar.dev',
   },
+  {
+    title: 'TestPage.vue',
+    caption: 'TestPage.vue',
+    icon: 'favorite',
+    link: 'http://localhost:9000/#/testPage',
+  }
 ]
 
 const leftDrawerOpen = ref(false)
